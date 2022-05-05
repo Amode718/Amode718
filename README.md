@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrei
 - 👀 I’m interested in Computers and Technology
-- 🌱 I’m currently learning Data structures and algorithms 
+- 🌱 I’m currently learning Programing Languages 
 - 💞️ I’m looking to collaborate on as much as I can
 - 📫 How to reach me andrzmodiga@gmail.com
 
