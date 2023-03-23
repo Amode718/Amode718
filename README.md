@@ -30,8 +30,8 @@
 You can contact me through the following channels:
 
     📧 Email: andrzmodiga@gmaail.com
-    💼 LinkedIn: 
-    🐦 Twitter:
+    💼 LinkedIn: https://www.linkedin.com/in/andrei-modiga-234b97208/
+    🐦 Twitter: https://twitter.com/AndreiModiga
 
 Thank you for visiting my GitHub profile! If you find my work interesting, please don't hesitate to give it a ⭐ star or fork it. Happy coding! 😄
 
