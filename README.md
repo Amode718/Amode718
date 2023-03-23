@@ -2,7 +2,7 @@
 
 🚀 I'm a passionate software engineer, developer, and technology enthusiast. I love working on innovative projects, learning new technologies, and collaborating with other like-minded developers.
 
-🌐 Check out my website andreimodiga.com to learn more about me, my skills, and the projects I've worked on.
+🌐 Check out my website [andreimodiga.com](https://www.andreimodiga.com) to learn more about me, my skills, and the projects I've worked on.
 
 📚 About Me
 
@@ -23,7 +23,6 @@
 📈 My GitHub Stats
 
 ![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amode718&show_icons=true&theme=radical)
-
 
 
 📫 How to Reach Me
