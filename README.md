@@ -22,7 +22,7 @@
 
 📈 My GitHub Stats
 
-![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amode7181&show_icons=true&theme=radical)
+![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amode718&show_icons=true&theme=radical)
 
 
 
