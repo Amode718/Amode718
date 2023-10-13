@@ -14,7 +14,7 @@
 
 🛠️ Technologies & Tools
 
-    Languages: JavaScript, Python, Java, C++, HTML, CSS, React, Swift
+    Languages: JavaScript, Python, Java, C++, HTML, CSS, React, Swift, Flutter
     Frameworks & Libraries: React, Node.js, Express, Flask, jQuery, Bootstrap
     Databases: MySQL, MongoDB, PostgreSQL
     Tools: Git, GitHub, Visual Studio Code, Docker
