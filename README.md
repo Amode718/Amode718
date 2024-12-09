@@ -20,11 +20,6 @@
     Tools: Git, GitHub, Visual Studio Code, Docker
     Other: AWS, Google Cloud, RESTful APIs, Firebase, SEO, UX/UI
 
-📈 My GitHub Stats
-
-![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amode718&show_icons=true&theme=radical)
-
-
 📫 How to Reach Me
 
 You can contact me through the following channels:
